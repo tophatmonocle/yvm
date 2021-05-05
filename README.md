@@ -32,7 +32,7 @@ Manually managing different yarn versions across projects is a pain. This fixes 
 
 ## Installation
 
-Node: >=10.0.0
+Node: >=12.0.0
 
 ### Homebrew
 

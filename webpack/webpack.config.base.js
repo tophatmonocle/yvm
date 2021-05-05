@@ -39,7 +39,10 @@ const config = {
                         cacheDirectory: true,
                         plugins: ['dynamic-import-node', 'lodash'],
                         presets: [
-                            ['@babel/preset-env', { targets: { node: '8.0' } }],
+                            [
+                                '@babel/preset-env',
+                                { targets: { node: '12.0' } },
+                            ],
                         ],
                     },
                 },
